@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#cabecalho {
+    height: 100px;
+    background-color: aquamarine;
+    margin: 0 auto;
+}
+
+#menu {
+    width: 20%;
+    height: 600px;
+    background-color: cadetblue;
+    float: left;
+    margin-top: 10px;
+}
+
+#principal {
+    width: 80%;
+    height: 600px;
+    background-color: cornflowerblue;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#rodape {
+    height: 50px;
+    background-color: darkcyan;
+    clear: both;
+}
+
+p {
+    text-align: center;
+    font-family: ;
+}
